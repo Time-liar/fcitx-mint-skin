@@ -2,13 +2,13 @@
 
 ### mint-default
 
-![](https://scrot.moe/image/D8jZ)
-![](https://scrot.moe/image/D572)
+![fcitxmint.png](https://cdn.scrot.moe/images/2016/06/09/fcitxmint.png)
+![fcitxmint2.jpg](https://cdn.scrot.moe/images/2016/06/09/fcitxmint2.jpg)
 
 ### mint-dark
 
-![](https://scrot.moe/image/DuS8)
-![](https://scrot.moe/image/DW3q)
+![fcitxmintdark.jpg](https://cdn.scrot.moe/images/2016/06/09/fcitxmintdark.jpg)
+![fcitxmintdark2.jpg](https://cdn.scrot.moe/images/2016/06/09/fcitxmintdark2.jpg)
 
 ### Distribution
 
