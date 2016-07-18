@@ -22,7 +22,7 @@ remove the ~/.config/fcitx/skin/mint-default and mint-dark
 
 # Distribution
 
-BALLOON a.k.a. Fu-sen., 2016.
+BALLOON a.k.a. Fu-sen., 2014-2016.
 
 * Let's use Linux Mint (Japanese) http://linuxmintjp.jimdo.com/
 
